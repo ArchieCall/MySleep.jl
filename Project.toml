@@ -1,4 +1,4 @@
-name = "MySleep.jl"
+name = "MySleep"
 uuid = "10b0b758-6766-4faa-a44d-0ea62a13fe05"
 authors = ["Owner "]
 version = "0.1.0"
